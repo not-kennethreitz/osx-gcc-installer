@@ -4,7 +4,8 @@ OSX GCC Installer
 Downloading and installing the *massive* Xcode installer is a huge hassle
 if you just want GCC and related tools.
 
-So, here's the PackageMaker files for creating a minimal installer yourself!
+So, here's the PackageMaker files for creating a minimal installer,
+extracted from the Xcode packages yourself!
 
 Downloads
 ---------
