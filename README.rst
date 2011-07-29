@@ -7,6 +7,10 @@ if you just want GCC and related tools.
 So, here's the PackageMaker files for creating a minimal installer,
 extracted from the Xcode packages yourself!
 
+To create the package, place the appropriate Xcode Installer package
+(Install Xcode.app) in the root directory of your repository, and open
+the appropriate .pmdoc to build!
+
 Downloads
 ---------
 
