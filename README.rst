@@ -6,6 +6,9 @@ if you just want GCC and related tools.
 
 So, here's the PackageMaker files for creating a minimal installer yourself!
 
+Downloads
+---------
+
 You can download the pre-made installers on the
 `Downloads page <https://github.com/kennethreitz/osx-gcc-installer/downloads>`_.
 
