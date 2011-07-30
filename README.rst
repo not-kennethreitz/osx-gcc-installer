@@ -29,6 +29,6 @@ Includes
 * Developer CLI Tools (purge, etc)
 * DevSDK (headers, etc)
 
-The source code for most of these packages is available here:
+The source code for these packages is available here:
 
-    http://www.opensource.apple.com/release/developer-tools-41/
+http://www.opensource.apple.com/release/developer-tools-41/
