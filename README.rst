@@ -17,7 +17,7 @@ Downloads
 You can download the pre-made installers on the
 `Downloads page <https://github.com/kennethreitz/osx-gcc-installer/downloads>`_.
 
-* `GCC-10.7.pkg <https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.7.pkg>`_
+* `GCC-10.7.pkg <https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.7-v2.pkg>`_
 * `GCC-10.6.pkg <https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.6.pkg>`_
 
 Includes
