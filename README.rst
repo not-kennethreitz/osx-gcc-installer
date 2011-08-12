@@ -22,8 +22,6 @@ To create your own package, place the Xcode Installer for your OS version
 (``Install Xcode.app``) in the root directory of the repository, then open
 the matching ``.pmdoc`` to build!
 
-* `GCC-10.7.pkg <https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.7.pkg>`_
-* `GCC-10.6.pkg <https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.6.pkg>`_
 * `GCC-10.7.pkg <https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.7-v2.pkg>`_
 * `GCC-10.6.pkg <https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.6.pkg>`_
 
