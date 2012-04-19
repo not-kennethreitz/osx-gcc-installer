@@ -28,6 +28,6 @@ Install Homebrew!\
 \
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f1 \cf0 \cb2 /usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"\
+\f1 \cf0 \cb2 /usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/master/Library/Contributions/install_homebrew.rb)"\
 \
 }]]></resource></locale></resources><requirements><requirement id="sosv" operator="ge" value="'10.7.0'"><message-title>Lion Only</message-title><message>OSX Lion is the only supported platform.</message></requirement></requirements><flags/><item type="flat-pkgref">01gcc.xml</item><item type="flat-pkgref">02clang.xml</item><item type="flat-pkgref">03llvm.xml</item><item type="flat-pkgref">04developertoolscli.xml</item><item type="flat-pkgref">05developertoolssystemsupport.xml</item><item type="flat-pkgref">06versioneddevelopertoolssystemsupport.xml</item><item type="flat-pkgref">07xcodeusersystemsupport.xml</item><item type="flat-pkgref">08devsdk.xml</item><item type="flat-pkgref">09x.xml</item><mod>properties.title</mod><mod>description</mod><mod>properties.anywhereDomain</mod><mod>properties.systemDomain</mod></pkmkdoc>
