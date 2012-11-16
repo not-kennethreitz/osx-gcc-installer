@@ -1,12 +1,3 @@
-READ THIS FIRST
-===============
-
-*Do not install this if you already have Xcode installed!* Mixing Xcode and osx-gcc-installer
-is known to cause various difficult-to-diagnose problems and is not recommended.
-
-If you intend to only use command line tools you should first uninstall Xcode entirely before
-installing osx-gcc-installer, or see below for other options.
-
 OSX GCC Installer
 =================
 
@@ -48,4 +39,15 @@ References
 
 The source code from Apple for these packages is available here:
 
-http://www.opensource.apple.com/release/developer-tools-41/
+- http://www.opensource.apple.com/release/developer-tools-41/
+
+
+Troubleshooting
+---------------
+
+*Do not install this if you already have Xcode installed!* Mixing Xcode and osx-gcc-installer
+is known to cause various difficult-to-diagnose problems and is not recommended.
+
+If you intend to only use command line tools you should first uninstall Xcode entirely before
+installing osx-gcc-installer, or see below for other options.
+
