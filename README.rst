@@ -6,7 +6,7 @@ if you just want GCC and related tools.
 
 The osx-gcc-installer allows you to install the essential compilers from either pre-built binary packages or helps you create your own installer.
 
-For Lion and Mountain Lion users, Apple now provides an official Command Line Tools for Xcode package that you can install without needing to install Xcode itself! You can download it from `Apple's developer site <http://connect.apple.com>`_. If you still need gcc-4.2, and you use Homebrew, you can install it using the apple-gcc42 package from homebrew/dupes.
+For Lion and Mountain Lion users, Apple now provides an official Command Line Tools for Xcode package that you can install without needing to install Xcode itself! You can download it from `Apple's developer site <https://developer.apple.com/>`_. If you still need gcc-4.2, and you use Homebrew, you can install it using the apple-gcc42 package from homebrew/dupes.
 
 Option 1: Downloading Pre-Built Binaries
 ----------------------------------------
