@@ -24,8 +24,22 @@ Option 2: Build Your Own
 ------------------------
 
 To create your own package, place the Xcode Installer for your OS version
-(``Install Xcode.app``) in the root directory of the repository, then open
-the matching ``.pmdoc`` to build!
+(``Install Xcode.app``) in the root directory of the repository, and edit the
+packages_list.txt file to include the packages you want. Then run the build.py script::
+
+        python build.py
+
+it will produce a build_essentials.pkg file by default, containing all the
+desired packages. For example, if you want to include all the default packages
+but want to add the 10.6 SDK, the file would look as follows::
+
+        DevSDK.pkg
+        DeveloperToolsCLI.pkg
+        MacOSX10.6.pkg
+        clang.pkg
+        llvm-gcc4.2.pkg
+        gcc4.2.pkg
+
 
 What's Included?
 ----------------

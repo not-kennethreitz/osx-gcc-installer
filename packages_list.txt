@@ -1,0 +1,10 @@
+CoreAudioSDK.pkg
+DevSDK.pkg
+DeveloperToolsCLI.pkg
+MacOSX10.6.pkg
+OpenGLSDK.pkg
+QuickTimeSDK.pkg
+WebKitSDK.pkg
+clang.pkg
+llvm-gcc4.2.pkg
+gcc4.2.pkg
