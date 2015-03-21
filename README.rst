@@ -13,8 +13,8 @@ Option 1: Downloading Pre-Built Binaries
 You can download the installers on the
 `Releases page <https://github.com/kennethreitz/osx-gcc-installer/releases>`_ or use the links below:
 
-* OS X 10.7 Lion: `GCC-10.7.pkg <https://github.com/kennethreitz/osx-gcc-installer/releases/download/v0.3/GCC-10.6-v0.3.zip>`_
-* OS X 10.6 Snow Leopard: `GCC-10.6.pkg <https://github.com/kennethreitz/osx-gcc-installer/releases/download/v0.3/GCC-10.7-v0.3.zip>`_
+* OS X 10.7 Lion: `GCC-10.7-v0.3.pkg <https://github.com/kennethreitz/osx-gcc-installer/releases/download/v0.3/GCC-10.6-v0.3.zip>`_
+* OS X 10.6 Snow Leopard: `GCC-10.6-v0.3.pkg <https://github.com/kennethreitz/osx-gcc-installer/releases/download/v0.3/GCC-10.7-v0.3.zip>`_
 
 Option 2: Build Your Own
 ------------------------
